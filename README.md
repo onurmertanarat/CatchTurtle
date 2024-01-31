@@ -23,7 +23,15 @@
 
 <h2>Requirements</h2>
 
-<p>This project requires Python to be installed on your system. Additionally, the Turtle module is used for graphics.</p>
+<p>This project requires Python to be installed on your system. Additionally, the Turtle module is used for graphics. See the <a href="requirements.txt">requirements.txt</a> file for details.</p>
+
+<h2>File Descriptions</h2>
+
+<ul>
+  <li><strong>main.py:</strong> Contains the Python code for the Catch Turtle game.</li>
+  <li><strong>get_positions.py:</strong> Python script to retrieve the positions of the mouse cursor.</li>
+  <li><strong>requirements.txt:</strong> List of Python dependencies required to run the project.</li>
+</ul>
 
 <h2>License</h2>
 
